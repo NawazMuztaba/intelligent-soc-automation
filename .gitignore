@@ -1,6 +1,35 @@
-venv/
+# Python
 __pycache__/
 *.pyc
-logs/*
-data/models/*
-node_modules/
+*.pyo
+*.pyd
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Virtual environment
+venv/
+.env/
+
+# Node / React
+dashboard/ui/node_modules/
+dashboard/ui/build/
+dashboard/ui/.cache/
+
+# System state
+data/system_state.json
+data/logs/
+data/reports/
+
+# Redis dump
+dump.rdb
+
+# OS / Editor junk files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
