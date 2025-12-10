@@ -1,0 +1,8 @@
+{
+  "blocked_ips": [
+    "10.0.0.55"
+  ],
+  "total_alerts": 14,
+  "total_decisions": 461326,
+  "last_action": "Blocked 10.0.0.55"
+}
