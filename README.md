@@ -156,7 +156,8 @@ echo "192.168.1.10 GET /product?id=' OR '1'='1" >> ~/logs/web_test.log
 (Add your own screenshot here)
 To add:
 
-![Dashboard Screenshot](screenshot.png)
+<img width="2447" height="1592" alt="Screenshot 2025-12-11 015821" src="https://github.com/user-attachments/assets/37313faa-bb66-464f-ae81-fea02c2b8f06" />
+
 
 📌 Future Enhancements
 
